@@ -11,6 +11,6 @@
   "license": "ISC",
   "homepage": "https://pablobrady.github.io/paulbrady-portfolio",
   "dependencies": {
-    "gh-pages": "^2.1.1"
+    "gh-pages": "^3.2.3"
   }
 }
